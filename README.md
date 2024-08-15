@@ -8,4 +8,4 @@ Yearly statistics calculation and export
 Dynamic grid load simulation for varying numbers of heat pumps
 Interactive plots and tables for result analysis
 
-more information is available at 
+more information is available at https://johnewbank.co.uk/heat-pump-impact-on-uk-electricity-grid/
